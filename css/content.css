@@ -1,0 +1,75 @@
+.content {
+    border: solid 1px rgb(42,80,191);;
+    background-color: rgb(151,171,232);
+    min-height: 300px;
+    padding: 20px;
+}
+
+#sbscontent{
+    display: inline-block;
+}
+
+.general.content {
+    padding: 5px 20px 5px 20px;
+}
+
+.tabela, .tabela2 {
+    width: auto;
+    border: solid 2px black;
+    text-align: center;
+    color: black;
+}
+thead {
+    background-color: white;
+}
+tbody {
+    background-color: grey;
+}
+tfoot {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    list-style-type: none;
+}
+.link-planos {
+    text-decoration: none;
+}
+
+.growmedica{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+.growmedica-field {
+    border-radius: 2rem;
+}
+
+.ctt-01 {
+    padding: 8px 10px 8px 10px;
+    margin: 0;
+}
+
+.ctt-02 {
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    text-align: left;
+    padding: 8px 10px 8px 10px;
+    margin: 0;
+}
+
+.form-contato {
+    font-size: 15px;
+}
+
+.backbutton {
+    padding: 5px 5px 5px 5px;
+    border: solid black 1px;
+    border-radius: 10%;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+
+#img-fisio, #text-fisio {
+    display: inline-block;
+}

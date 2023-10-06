@@ -1,0 +1,37 @@
+.menu {
+    display: flex;
+    width: 20%;
+    height: 99.12%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(42,80,191);
+    padding: 10px 20px 0px;
+    align-items: center;
+    text-align: center;
+}
+
+.links-menu {
+    margin: auto;
+    padding: 0;
+    list-style-type: none;
+}
+
+.links1 {
+    margin: 0;
+    padding: 0;
+    font-size: 1.5rem;
+    text-decoration: none;
+}
+
+.links1:link {
+    color: white;
+}
+.links1:hover {
+    color: white;
+}
+.links1:visited {
+    color: white;
+}
+.links1:active {
+    color: white;
+}

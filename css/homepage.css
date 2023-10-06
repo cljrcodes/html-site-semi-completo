@@ -1,0 +1,32 @@
+.cont1 {
+    text-align: center;
+    padding: 7px 7px 3px 3px;
+    font-size: 18px;
+}
+
+.cont2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cont3 {
+    border-radius: 2rem;
+    background-color: rgb(113,197,91);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.types {
+    font-size: 20px;
+    padding: 5px 100px 5px 100px;
+    color: white;
+}
+.time {
+    font-size: 25px ;
+}
+
+.img-clinica {
+    border-radius: 7%;
+    padding: 10px 10px 10px 10px;
+}

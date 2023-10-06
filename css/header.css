@@ -1,0 +1,5 @@
+.header {
+    border: solid 1px rgb(42,80,191);
+    background-color: rgb(108,135,223);
+    min-height: 150px;
+}

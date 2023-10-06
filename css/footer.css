@@ -1,0 +1,23 @@
+.footer {
+    border: solid 1px rgb(42,80,191);
+    background-color: rgb(68,104,214);
+    min-height: 150px;
+}
+
+
+.field {
+    font-size: 1rem;
+    text-align: center;
+    color: white;
+    border: none;
+    margin: 2px;
+    padding: 10px;
+}
+.ctts {
+    font-size: 0.8rem;
+    text-align: center;
+    color: white;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
