@@ -35,20 +35,17 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
 3. **Menu** e **Footer** padrões em todas as páginas.
 
 ### Sobre a clínica
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** um texto falando sobre a clínica.
-3. **Menu** e **Footer** padrões em todas as páginas.
+Identificação de homepage, com conteúdo de mídia e texto descritivo. Pequenas decorações adicionadas em CSS, para estilizar um pouco de beleza na tela inicial.
 
 ### Horário de Atendimento
-1. Deve ter uma imagem diferente no **Header**.
-2. Em **Content** um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
+Pequeno texto inicial falando sobre os serviços ofertados. Estruturaçaõ secundária em tabelas; Tabela 1 = Contém o horário de funcionamento do estabelecimento e Tabela 2 = Contém os preços de cada serviço ofertado.
 
 |Serviços |Segunda a Sexta | Sábados | Feriados |
 |---|---|---|---|
-|Clínica geral | 08h - 19h  | 08h - 14h | 08h - 14h  |
-|Psicologia | 08h - 19h  | 08h - 14h | 08h - 14h  |
-|Pediatria | 08h - 19h  | 08h - 18h | - |
-|Oftalmologia | 08h - 19h  | 08h - 18h | - |
+|XXX| 00hrs  | 00hrs  | 00hrs  |
+|XXX| 00hrs   | 00hrs  | 00hrs   |
+|XXX| 00hrs   | 00hrs  | 00hrs  |
+|XXX| 00hrs   | 00hrs  | 00hrs  |
 |||||
 
 3. **Menu** e **Footer** padrões em todas as páginas.
@@ -66,9 +63,6 @@ No **Menu**, ficará localizado o menu de navegação (ah vá!), no **Header** d
         - Assunto (type="text")
         - Mensagem (textarea)
         - Botões de envias e limpar formulário
+## Criado exatamente como proposto acima.
 
 3. **Menu** e **Footer** padrões em todas as páginas.
-
-Desafio está lançado! Com tudo que aprendemos no Módulo II é perfeitamente possível criar este site! 
-
-Bora pra cima!
